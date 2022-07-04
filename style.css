@@ -1,0 +1,39 @@
+#main {
+  text-align: center;
+  background-color: gainsboro;
+  padding: 3%;
+}
+
+#img-div {
+  background-color: #fff;
+  padding: 2%;
+}
+
+#image {
+  max-width: 75vw;
+  height: auto;
+}
+
+#tribute-info {
+  width: 60vw;
+  margin: auto;
+}
+
+#tribute-info ul {
+  text-align: left;
+}
+
+#tribute-info li {
+  margin: 15px;
+}
+
+#tribute-link {
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  justify-content: center;
+}
+
+#tribute-link p {
+  margin-right: 3px;
+}
